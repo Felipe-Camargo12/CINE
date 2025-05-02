@@ -1,3 +1,6 @@
+# CINE
+Projeto de site de cinema feito com React, Vite e Typescript puro, implementando boas práticas e estudos em React TS
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
